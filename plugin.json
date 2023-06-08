@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "title": "Tiny theme add-on: Add Head Content",
+  "description": "Add content to the head of your site.",
+  "includes": [
+    "plugin_head.html"
+  ],
+  "fields": [
+    {
+      "field": "params.head_plugin_html",
+      "label": "Add Content",
+      "placeholder": "Add content to be placed before the closing head tag on every page of your site. Warning: this can break your site if not done properly."
+    }
+  ]
+}
