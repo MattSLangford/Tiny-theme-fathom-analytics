@@ -5,7 +5,7 @@
 ![Tiny Theme Head Graphic](https://github.com/MattSLangford/Tiny-theme-head/blob/main/screenshot.jpg?raw=true)
 
 ### What it does
-Allows you to add Fathom analytics to your site.
+Allows you to add Fathom analytics to your site. For a discount on your first month, [use this link specifically for Tiny Theme](https://usefathom.com/ref/UYMNRL) users.
 
 ### Installation and Setup
 1. Install from the Micro.blog plugins page
