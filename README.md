@@ -13,3 +13,7 @@ Allows you to add Fathom analytics to your site. For a discount on your first mo
 3. Add your Fathom site code and save
 
 That's it!
+
+### Support Development
+
+[Support the development](https://paypal.me/mattslangford) of this theme. See it in action at [mattlangford.com](https://www.mattlangford.com).
