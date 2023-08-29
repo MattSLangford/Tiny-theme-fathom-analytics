@@ -14,8 +14,9 @@ Allows you to add Fathom analytics to your site. For a discount on your first mo
 
 That's it!
 
-### Support Development
+### Do you value this plugin?
 
 Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
 
-<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[Make a Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount. Thank you!
+
